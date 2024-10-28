@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11118931.svg)](https://doi.org/10.5281/zenodo.11118931)
 
 #  A single gene orchestrates androgen variation underlying male mating morphs
-![morphs](https://github.com/azemella/Ruff_adults_RNASeq_gene_expression_2024/tree/main/main_figures/plots/morphs.jpg?raw=true)
+![morphs](https://github.com/azemella/Ruff_adults_RNASeq_gene_expression_2024/tree/main/main_figures/plots/morphs.png?raw=true)
 
 This repository contains the data files, metadata, data processing scripts, data analysis scripts, and plotting scripts used in:
 
