@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11118931.svg)](https://doi.org/10.5281/zenodo.11118931)
 
 #  A single gene orchestrates androgen variation underlying male mating morphs
-<img src="main_figures/plots/morphs.png" alt="morphs" width="40%">
+<img src="main_figures/plots/morphs.png" alt="morphs" width="65%">
 
 This repository contains the data files, metadata, data processing scripts, data analysis scripts, and plotting scripts used in:
 
