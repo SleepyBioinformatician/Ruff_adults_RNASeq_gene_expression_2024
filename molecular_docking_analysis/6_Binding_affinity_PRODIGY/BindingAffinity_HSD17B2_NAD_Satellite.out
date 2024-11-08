@@ -1,0 +1,6 @@
+# ===========================================================================
+command: prodigy_lig -c A B:NAD -i Final_HSD17B2_Testo_NAD_complex_Satellite.pdb -v
+exit status: 0
+log:
+Job name	DGprediction (Kcal/mol)	DGscore	Electrostatics Energy	CC	CN	CO	CX	NN	NO	NX	OO	OX	XX
+Final_HSD17B2_Testo_NAD_complex_Satellite	-9.30	149.99	-132.79	2514	1461	2373	 142	 232	 701	  38	 482	  54	   2

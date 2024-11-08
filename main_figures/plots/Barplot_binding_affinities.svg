@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svglite"
+   width="312.00003pt"
+   height="168.00002pt"
+   viewBox="0 0 312.00003 168.00002"
+   version="1.1"
+   id="svg43"
+   sodipodi:docname="Barplot_binding_affinities.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="1.2827642"
+     inkscape:cx="230.75168"
+     inkscape:cy="74.058816"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg43" />
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+  </defs>
+  <rect
+     width="33.333336%"
+     height="33.333336%"
+     style="fill:#ffffff;stroke:none;stroke-width:0.333333"
+     id="rect1"
+     x="0"
+     y="0" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="cpMC4wMHw5MzYuMDB8MC4wMHw1MDQuMDA=">
+      <rect
+         x="0"
+         y="0"
+         width="936"
+         height="504"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMC4wMHw5MzYuMDB8MC4wMHw1MDQuMDA=)"
+     id="g3"
+     transform="scale(0.33333333)">
+    <rect
+       x="0"
+       y="0"
+       width="936"
+       height="504"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.07"
+       id="rect3" />
+  </g>
+  <defs
+     id="defs4">
+    <clipPath
+       id="cpNDguMjJ8OTMwLjUyfDEwOC40NHw0OTguNTI=">
+      <rect
+         x="48.220001"
+         y="108.44"
+         width="882.29999"
+         height="390.07999"
+         id="rect4" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpNDguMjJ8OTMwLjUyfDEwOC40NHw0OTguNTI=)"
+     id="g18"
+     transform="scale(0.33333333)">
+    <rect
+       x="48.220001"
+       y="108.44"
+       width="882.29999"
+       height="390.07999"
+       style="fill:#ffffff;stroke:none;stroke-width:1.07"
+       id="rect5" />
+    <line
+       x1="158.50999"
+       y1="498.51999"
+       x2="158.50999"
+       y2="108.44"
+       style="stroke:#a9a9a9;stroke-width:0.53;stroke-linecap:butt;stroke-dasharray:4, 4"
+       id="line5" />
+    <line
+       x1="379.07999"
+       y1="498.51999"
+       x2="379.07999"
+       y2="108.44"
+       style="stroke:#a9a9a9;stroke-width:0.53;stroke-linecap:butt;stroke-dasharray:4, 4"
+       id="line6" />
+    <line
+       x1="599.65997"
+       y1="498.51999"
+       x2="599.65997"
+       y2="108.44"
+       style="stroke:#a9a9a9;stroke-width:0.53;stroke-linecap:butt;stroke-dasharray:4, 4"
+       id="line7" />
+    <line
+       x1="820.22998"
+       y1="498.51999"
+       x2="820.22998"
+       y2="108.44"
+       style="stroke:#a9a9a9;stroke-width:0.53;stroke-linecap:butt;stroke-dasharray:4, 4"
+       id="line8" />
+    <rect
+       x="-1385.51"
+       y="228.72"
+       width="2088.8401"
+       height="45.509998"
+       style="fill:#0000ff;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter"
+       id="rect8" />
+    <rect
+       x="-1385.51"
+       y="423.76001"
+       width="1969.73"
+       height="45.509998"
+       style="fill:#0000ff;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter"
+       id="rect9" />
+    <rect
+       x="-1385.51"
+       y="183.21001"
+       width="2221.1799"
+       height="45.509998"
+       style="fill:#d02090;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter"
+       id="rect10" />
+    <rect
+       x="-1385.51"
+       y="378.25"
+       width="2051.3401"
+       height="45.509998"
+       style="fill:#d02090;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter"
+       id="rect11" />
+    <rect
+       x="-1385.51"
+       y="137.7"
+       width="2163.8301"
+       height="45.509998"
+       style="fill:#ffa500;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter"
+       id="rect12" />
+    <rect
+       x="-1385.51"
+       y="332.73999"
+       width="2031.49"
+       height="45.509998"
+       style="fill:#ffa500;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter"
+       id="rect13" />
+    <text
+       x="708.51001"
+       y="259.60999"
+       style="font-size:22.76px;font-family:Arial"
+       textLength="51.849998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text13">-9.47</text>
+    <text
+       x="589.40002"
+       y="454.64999"
+       style="font-size:22.76px;font-family:Arial"
+       textLength="51.849998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text14">-8.93</text>
+    <text
+       x="842.12"
+       y="214.10001"
+       style="font-size:22.76px;font-family:Arial"
+       textLength="64.5"
+       lengthAdjust="spacingAndGlyphs"
+       id="text15">-10.07</text>
+    <text
+       x="669.75"
+       y="409.14001"
+       style="font-size:22.76px;font-family:Arial"
+       textLength="39.200001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text16">-9.3</text>
+    <text
+       x="783.51001"
+       y="168.59"
+       style="font-size:22.76px;font-family:Arial"
+       textLength="51.849998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text17">-9.81</text>
+    <text
+       x="651.15997"
+       y="363.63"
+       style="font-size:22.76px;font-family:Arial"
+       textLength="51.849998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text18">-9.21</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw5MzYuMDB8MC4wMHw1MDQuMDA=)"
+     id="g43"
+     transform="scale(0.33333333)">
+    <polyline
+       points="48.22,108.44 930.52,108.44 "
+       style="stroke-width:1.6;stroke-linecap:butt"
+       id="polyline18" />
+    <polyline
+       points="158.51,101.35 158.51,108.44 "
+       style="stroke-width:1.6;stroke-linecap:butt"
+       id="polyline19" />
+    <polyline
+       points="379.08,101.35 379.08,108.44 "
+       style="stroke-width:1.6;stroke-linecap:butt"
+       id="polyline20" />
+    <polyline
+       points="599.66,101.35 599.66,108.44 "
+       style="stroke-width:1.6;stroke-linecap:butt"
+       id="polyline21" />
+    <polyline
+       points="820.23,101.35 820.23,108.44 "
+       style="stroke-width:1.6;stroke-linecap:butt"
+       id="polyline22" />
+    <text
+       x="158.50999"
+       y="99.160004"
+       text-anchor="middle"
+       style="font-size:20px;font-family:Arial"
+       textLength="17.780001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text22">-7</text>
+    <text
+       x="379.07999"
+       y="99.160004"
+       text-anchor="middle"
+       style="font-size:20px;font-family:Arial"
+       textLength="17.780001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text23">-8</text>
+    <text
+       x="599.65997"
+       y="99.160004"
+       text-anchor="middle"
+       style="font-size:20px;font-family:Arial"
+       textLength="17.780001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text24">-9</text>
+    <text
+       x="820.22998"
+       y="99.160004"
+       text-anchor="middle"
+       style="font-size:20px;font-family:Arial"
+       textLength="28.91"
+       lengthAdjust="spacingAndGlyphs"
+       id="text25">-10</text>
+    <polyline
+       points="48.22,498.52 48.22,108.44 "
+       style="stroke-width:1.6;stroke-linecap:butt"
+       id="polyline25" />
+    <text
+       transform="rotate(-90,237.295,201.505)"
+       style="font-size:30px;font-family:Arial"
+       textLength="21.66"
+       lengthAdjust="spacingAndGlyphs"
+       id="text26">N</text>
+    <text
+       transform="rotate(-90,226.465,190.675)"
+       style="font-size:30px;font-family:Arial"
+       textLength="20.01"
+       lengthAdjust="spacingAndGlyphs"
+       id="text27">A</text>
+    <text
+       transform="rotate(-90,216.46,180.67)"
+       style="font-size:30px;font-family:Arial"
+       textLength="21.66"
+       lengthAdjust="spacingAndGlyphs"
+       id="text28">D</text>
+    <text
+       transform="rotate(-90,198.235,177.225)"
+       style="font-size:21px;font-family:Arial"
+       textLength="12.26"
+       lengthAdjust="spacingAndGlyphs"
+       id="text29">+</text>
+    <text
+       transform="rotate(-90,162.31,129.54)"
+       style="font-size:30px;font-family:Arial"
+       textLength="171.77"
+       lengthAdjust="spacingAndGlyphs"
+       id="text30">Testosterone</text>
+    <text
+       x="204.06"
+       y="59.369999"
+       style="font-size:30px;font-family:Arial"
+       textLength="326.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text31">Predicted binding affinity</text>
+    <text
+       x="530.40002"
+       y="59.369999"
+       style="font-size:30px;font-family:Arial"
+       textLength="8.2200003"
+       lengthAdjust="spacingAndGlyphs"
+       id="text32" />
+    <text
+       x="538.60999"
+       y="59.369999"
+       style="font-size:30px;font-family:Arial"
+       textLength="19.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text33">Δ</text>
+    <text
+       x="557.95001"
+       y="59.369999"
+       style="font-size:30px;font-family:Arial"
+       textLength="23.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text34">G</text>
+    <text
+       x="581.28998"
+       y="59.369999"
+       style="font-size:30px;font-family:Arial"
+       textLength="8.2200003"
+       lengthAdjust="spacingAndGlyphs"
+       id="text35" />
+    <text
+       x="585"
+       y="59.369999"
+       style="font-size:30px;font-family:Arial"
+       id="text36"><tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan43">binding</tspan> (kcal mol<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan44">-1</tspan>)</text>
+    <rect
+       x="725.47998"
+       y="408.14001"
+       width="185.09"
+       height="83.239998"
+       style="fill:#ffffff;stroke:none;stroke-width:1.07"
+       id="rect38" />
+    <rect
+       x="730.96002"
+       y="413.62"
+       width="24.09"
+       height="24.09"
+       style="fill:#ffffff;stroke:none;stroke-width:1.07"
+       id="rect39" />
+    <circle
+       cx="743.01001"
+       cy="425.67001"
+       r="8.8900003"
+       style="fill:#0000ff;stroke:#ffffff;stroke-width:0.71"
+       id="circle39" />
+    <rect
+       x="730.96002"
+       y="437.70999"
+       width="24.09"
+       height="24.09"
+       style="fill:#ffffff;stroke:none;stroke-width:1.07"
+       id="rect40" />
+    <circle
+       cx="743.01001"
+       cy="449.76001"
+       r="8.8900003"
+       style="fill:#d02090;stroke:#ffffff;stroke-width:0.71"
+       id="circle40" />
+    <rect
+       x="730.96002"
+       y="461.81"
+       width="24.09"
+       height="24.09"
+       style="fill:#ffffff;stroke:none;stroke-width:1.07"
+       id="rect41" />
+    <circle
+       cx="743.01001"
+       cy="473.85999"
+       r="8.8900003"
+       style="fill:#ffa500;stroke:#ffffff;stroke-width:0.71"
+       id="circle41" />
+    <text
+       x="760.53003"
+       y="434.97"
+       style="font-size:26px;font-family:Arial"
+       textLength="144.56"
+       lengthAdjust="spacingAndGlyphs"
+       id="text41">Independent</text>
+    <text
+       x="760.53003"
+       y="459.07001"
+       style="font-size:26px;font-family:Arial"
+       textLength="92.480003"
+       lengthAdjust="spacingAndGlyphs"
+       id="text42">Satellite</text>
+    <text
+       x="760.53003"
+       y="483.16"
+       style="font-size:26px;font-family:Arial"
+       textLength="82.370003"
+       lengthAdjust="spacingAndGlyphs"
+       id="text43">Faeder</text>
+  </g>
+</svg>

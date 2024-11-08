@@ -1,0 +1,6 @@
+# ===========================================================================
+command: prodigy_lig -c A B:NAD -i Final_HSD17B2_Testo_NAD_complex_Faeder.pdb -v
+exit status: 0
+log:
+Job name	DGprediction (Kcal/mol)	DGscore	Electrostatics Energy	CC	CN	CO	CX	NN	NO	NX	OO	OX	XX
+Final_HSD17B2_Testo_NAD_complex_Faeder	-9.21	152.52	-119.24	2532	1469	2418	 148	 225	 716	  40	 479	  47	   2
