@@ -77,7 +77,7 @@ This pipeline comprises the following steps:
   - **Note**: To keep the complex fixed in its original positions while allowing the ligands to explore alternative conformations in the binding pocket, enable parameter *"Fix molecule at its original position during it0?"*.
 - For downstream binding affinity predictions using *PRODIGY*, we visually inspected all models from the best-scoring cluster and selected those whose ligand binding poses most closely matched those observed in the experimentally validated structures mentioned earlier.
 - Finally, use the *PRODIGY-LIGAND* mode in *PRODIGY* to predict the binding affinities towards both ligands of the selected *HADDOCK2.4* models.
-   - The selected *HADDOCK2.4* models and binding affinity results are documented in are documented in `./molecular_docking_analysis/6_Binding_affinity_PRODIGY`.
+   - The selected *HADDOCK2.4* models and binding affinity results are documented in `./molecular_docking_analysis/6_Binding_affinity_PRODIGY`.
 
 ### Note:
 To comply with the journal's guidelines, some adjustments (e.g., font size for axis titles and legend labels) were made to a few plots after they were initially generated in R. These edits were done using Inkscape. We provide SVG files for both the original and edited versions.
