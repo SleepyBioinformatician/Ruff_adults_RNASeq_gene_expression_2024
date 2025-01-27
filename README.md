@@ -1,11 +1,17 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11032422.svg)](https://doi.org/10.5281/zenodo.11032422) [![License: MIT](https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c34_License-MIT-blue.svg)](/LICENSE)
+[![Publication](https://img.shields.io/badge/Publication-DOI%3A10.1126%2Fscience.adp5936-blue)](https://www.science.org/doi/10.1126/science.adp5936)
+[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.11032422.svg)](https://doi.org/10.5281/zenodo.11032422) 
+[![License: MIT](https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c34_License-MIT-blue.svg)](/LICENSE)
 
 #  A single gene orchestrates androgen variation underlying male mating morphs in ruffs
 <img src="main_figures/plots/morphs.png" alt="morphs" width="65%">
 
 This repository contains the data files, metadata, data processing scripts, data analysis scripts, and plotting scripts used in:
 
-**J. L. Loveland, A. Zemella *et al.*, (2024) *A single gene orchestrates androgen regulation underlying alternative mating morphs in ruffs* [in revision]**
+Link to our publication: <br />
+Jasmine L. Loveland *et al.*, A single gene orchestrates androgen variation underlying male mating morphs in ruffs. *Science* **387**, 406-412 (2025). [DOI:10.1126/science.adp5936](https://www.science.org/doi/10.1126/science.adp5936)
+
+Link to related perspective article by Kimberly A. Rosvall: <br />
+Kimberly A. Rosvall, Adaptations in surprising places. *Science* **387**, 358-359 (2025). [DOI:10.1126/science.adv1194](https://www.science.org/doi/10.1126/science.adv1194)
 
 ## Before You Start
 Due to Git repository size limitations, some large files (exceeding 500 MB) are not included here. To fully reproduce all data analyses from this study, please download the following external files and place them in the specified folders:
